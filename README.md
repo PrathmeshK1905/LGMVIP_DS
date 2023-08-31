@@ -18,6 +18,7 @@ Introduction
 Let's Grow More is excited to offer you a comprehensive 1-month virtual internship in data science. You will work on real-world tasks, applying machine learning and data analysis techniques to solve problems. These tasks are designed to challenge and enhance your skills, giving you a hands-on experience in the field.
 
 Tasks
+
 --Iris Flower Classification
 In this task, you will build a machine learning model to classify different species of iris flowers based on their features. You will use the popular Iris dataset and employ classification algorithms to predict the species of the flower.
 
