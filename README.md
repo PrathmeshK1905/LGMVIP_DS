@@ -18,13 +18,13 @@ Introduction
 Let's Grow More is excited to offer you a comprehensive 1-month virtual internship in data science. You will work on real-world tasks, applying machine learning and data analysis techniques to solve problems. These tasks are designed to challenge and enhance your skills, giving you a hands-on experience in the field.
 
 Tasks
->>Iris Flower Classification
+--Iris Flower Classification
 In this task, you will build a machine learning model to classify different species of iris flowers based on their features. You will use the popular Iris dataset and employ classification algorithms to predict the species of the flower.
 
->>Handwriting Recognition
+--Handwriting Recognition
 Here, you will explore the fascinating field of image recognition. Your goal is to develop a model that can recognize handwritten digits. The MNIST dataset, consisting of thousands of handwritten digit images, will be your playground for this task.
 
->>Mood Detection and Song Suggestion
+--Mood Detection and Song Suggestion
 This task involves sentiment analysis and recommendation systems. You'll work on creating a model that can detect the mood of a text (happy, sad, neutral, etc.) and then suggest songs that align with the detected mood. This combines natural language processing and recommendation techniques.
 
 Resources
